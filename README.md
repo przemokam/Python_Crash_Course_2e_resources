@@ -1,6 +1,9 @@
 Python Crash Course - Second Edition
 ===
 
+# solutions:
+https://ehmatthes.github.io/pcc_2e/solutions/solutions/
+
 A Hands-On, Project-Based Introduction to Programming
 ---
 
